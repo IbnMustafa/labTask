@@ -41,7 +41,7 @@ public class Loginpage extends JFrame implements ActionListener {
         String user = userText.getText();
         String pass = new String(passText.getPassword());
 
-        if (user.equals("Abdullah") && pass.equals("12345678")) {
+        if (user.equals("ibnMustafa") && pass.equals("12345678")) {
             JOptionPane.showMessageDialog(this, "Login successful!");
             dispose();
         } else {
