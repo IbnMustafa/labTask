@@ -1,4 +1,0 @@
-Name: A id: 1 Price: 300.000000
-Name: B id: 2 Price: 400.000000
-name:as 
-Adddress:as
